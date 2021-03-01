@@ -1,4 +1,4 @@
-# Shawn_Project_Portfolio
+# Shawn's Project Portfolio
 
 ## [Project 1: Customer Analytics for Retail Company](https://github.com/shawn-y-sun/Customer_Analytics_Retail)
 - Project aims to support a retail company to formulate suitable marketing strategies for different brands of candy bars
