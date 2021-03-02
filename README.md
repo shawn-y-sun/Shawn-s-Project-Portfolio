@@ -1,3 +1,6 @@
+# Project Portfolio
+__Shawn Sun__
+
 ## [Project 1: Customer Analytics for Retail Company](https://github.com/shawn-y-sun/Customer_Analytics_Retail)
 - Project aims to support a retail company to formulate suitable marketing strategies for different brands of candy bars
 - Segmented customers into 4 groups by conducting Principal Component Analysis and K-Means Clustering
