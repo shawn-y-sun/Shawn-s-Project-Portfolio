@@ -1,7 +1,8 @@
 # Project Portfolio
 _Shawn Sun_
 
-## [Project 1: Customer Analytics for Retail Company](https://github.com/shawn-y-sun/Customer_Analytics_Retail)
+
+## [Project 1: Customer Analytics for Retail/FMCG Company](https://github.com/shawn-y-sun/Customer_Analytics_Retail)
 
 #### Overview
 This project aims to support a retail or FMCG (fast-moving consumer goods) company to formulate suitable marketing strategies that could further maximize revenues on Candy Bars. To reach the fullest potential of bringing up revenues, a company should find the 'sweet spot' on the relationship between price and quantity. 
