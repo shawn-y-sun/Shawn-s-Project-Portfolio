@@ -5,9 +5,9 @@ _Shawn Sun_
 ## [Project 1: Customer Analytics for Retail Company](https://github.com/shawn-y-sun/Customer_Analytics_Retail)
 
 #### Overview
-This project aims to support a retail or FMCG (fast-moving consumer goods) company to formulate suitable marketing strategies that could maximize revenues on Candy Bars. To reach the fullest potential of bringing up revenues, a company should find the 'sweet spot' on the relationship between price and quantity sold. 
+This project aims to support a retail or FMCG (fast-moving consumer goods) company to formulate marketing and pricing strategies that could maximize revenues on each brand of candy bars. To reach the fullest potential of bringing up revenues, a company should find the 'sweet spot' for price to maximize three customer behaviours: purchase probability, brand choice probability, and purchase quantity. 
 
-Analysis on price elasticity would support us to find the optimal point in price-quantity relationship. We will look at price elasticities in three aspects: purchase probability, brand choice probability, and purchase quantity. By doing that, we can construct strategies to increase the likelihood of a customer purchasing our products on all shopping stages. 
+Data from customer purchase history were used for training the regression models to predict those three customer behaviours in a preconceived price range. The results were then converted into price elasticities so that we can examine the effects of changing price on each of the behaviours. Hence, we will be able to find the suitable marketing and pricing strategies.
 
 To better position our products, we will firstly perform segmentation on our customers to support our analysis on price elasticity, allowing us to customize marketing strategies for customers with different backgrounds.
 
