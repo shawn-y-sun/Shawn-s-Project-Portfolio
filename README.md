@@ -9,7 +9,7 @@ This project aims to support a retail or FMCG (fast-moving consumer goods) compa
 
 Data from customer purchase history were used for training the regression models to predict those three customer behaviours in a preconceived price range. The results were then converted into price elasticities so that we can examine the effects of changing price on each of the behaviours. Hence, we will be able to find the suitable marketing and pricing strategies.
 
-To better position our products, we will firstly perform segmentation on our customers to support our analysis on price elasticity, allowing us to customize marketing strategies for customers with different backgrounds.
+To better position our products, we will firstly perform segmentation on our customers to support our analysis on customer behaviours, allowing us to customize marketing strategies for customers with different backgrounds.
 
 #### Code and Resources Used
 * __Python Version__: 3.8.5
