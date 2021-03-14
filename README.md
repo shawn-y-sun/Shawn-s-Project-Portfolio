@@ -19,7 +19,7 @@ To better position our products, we will firstly perform segmentation on our cus
 ## [Project 2: Credit Risk Modeling for Loan Defaults](https://github.com/shawn-y-sun/Credit_Risk_Model_LoanDefaults)
 
 #### Overview
-This project aims to measure the credit risk of a lending institution (i.e. a commercial bank) by calculating the expected loss of the outstanding loans. Credit risk is the likelihood that a borrower would not repay their loan to the lender. By measuring the risk effectively, a lender could minimize its credit losses while it reaches the fullest potential to maximize revenues on loan borrowing. It is also crucial for banks to abide by regulations that require them to conduct their business with sufficient capital adequacy, which, if in low, will risk the stability of the economic system.
+This project aims to measure the credit risk of Lending Club, (an American peer-to-peer lending company), by calculating the expected loss of their outstanding loans. Credit risk is the likelihood that a borrower would not repay their loan to the lender. By continually evaluating the risk and adjusting their credit policies, the lender could minimize its credit losses while it reaches the fullest potential to maximize revenues on loan borrowing. It is also crucial for the lender to abide by regulations that require them to conduct their business with sufficient capital adequacy, which, if in low, will risk the stability of the economic system.
 
 The key metric of credit risk is Expected Loss (EL), calculated by multiplying the results across three models: PD (Probability of Default), LGD (Loss Given Default), and EAD (Exposure at Default). The project includes all three models to help reach the final goal of credit risk measurement.
 
