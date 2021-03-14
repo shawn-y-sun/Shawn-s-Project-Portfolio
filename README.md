@@ -14,7 +14,7 @@ To better position our products, we will firstly perform segmentation on our cus
 #### Code and Resources Used
 * __Python Version__: 3.8.5
 * __Packages__: pandas, numpy, sklearn, scipy, matplotlib, seaborn, pickle
-* __Algorithms__: clustering(K-means, PCA), regression(linear), classification(logistic regression)
+* __Algorithms__: clustering (K-means, PCA), regression (linear), classification (logistic regression)
 
 ## [Project 2: Credit Risk Modeling for Loan Defaults](https://github.com/shawn-y-sun/Credit_Risk_Model_LoanDefaults)
 
@@ -26,5 +26,5 @@ The key metric of credit risk is Expected Loss (EL), calculated by multiplying t
 #### Code and Resources Used
 * __Python Version__: 3.8.5
 * __Packages__: pandas, numpy, sklearn, scipy, matplotlib, seaborn, pickle
-* __Algorithms__: regression (multiple linear), classification(logistic regression)
+* __Algorithms__: regression (multiple linear), classification (logistic regression)
 
