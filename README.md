@@ -11,7 +11,7 @@ Data from customer purchase history were used for training the regression models
 
 To better position our products, we will firstly perform segmentation on our customers to support our analysis on customer behaviours, allowing us to customize marketing strategies for customers with different backgrounds.
 
-#### Code and Resources Used
+#### Resources and Methodology
 * __Python Version__: 3.8.5
 * __Packages__: pandas, numpy, sklearn, scipy, matplotlib, seaborn, pickle
 * __Algorithms__: clustering (K-means, PCA), regression (linear), classification (logistic regression)
@@ -23,8 +23,8 @@ This project aims to measure the credit risk of LendingClub, (an American peer-t
 
 The key metric of credit risk is Expected Loss (EL), calculated by multiplying the results across three models: PD (Probability of Default), LGD (Loss Given Default), and EAD (Exposure at Default). The project includes all three models to help reach the final goal of credit risk measurement.
 
-#### Code and Resources Used
+#### Resources and Methodology
 * __Python Version__: 3.8.5
 * __Packages__: pandas, numpy, sklearn, scipy, matplotlib, seaborn, pickle
-* __Algorithms__: regression (multiple linear), classification (logistic regression)
+* __Algorithms__: regression (linear), classification (logistic regression)
 
